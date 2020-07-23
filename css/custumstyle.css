@@ -1,0 +1,11 @@
+body{
+	margin: 0px;
+}
+#backg
+{
+	background-image: url(../images/index1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+
+}
